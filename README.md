@@ -1,6 +1,12 @@
-# Salesforce DX Project: Next Steps
+# RenewSure : Smart Contract Expiry & Renewal Tracker 
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+**Problem Statement:**
+Many businesses lose revenue and face compliance risks due to missed contract renewals,
+duplicate entries, and a lack of automated alerts. Without a proper system, managers only realize
+the issue once it’s too late. The current manual methods provide little visibility into upcoming
+expiries or renewal trends.
+RenewSure solves this by automating contract expiry alerts, preventing duplicates, sending timely
+reminders, and giving managers clear dashboards to track contract health.
 
 ## How Do You Plan to Deploy Your Changes?
 
