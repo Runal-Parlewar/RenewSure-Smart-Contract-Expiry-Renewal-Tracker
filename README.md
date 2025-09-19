@@ -18,4 +18,4 @@ Phase 1 completion pdf : [RenewSure_Phase1_.pdf]
 
 ## Phase 2 : Org Setup & Configuration (Done)✅
 Phase 2 completed : [RenewSure_Phase2_.md]
-Phase 2 completed pdf : [Phase2_completed.pdf]
+Phase 2 completed pdf : Phase2_completed.pdf
