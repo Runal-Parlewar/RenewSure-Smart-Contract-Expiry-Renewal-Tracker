@@ -14,7 +14,7 @@ RenewSure solves this by automating contract expiry alerts, preventing duplicate
 reminders, and giving managers clear dashboards to track contract health.
 
 ## Phase 1 : Problem Understanding & Industry analysis (Done)✅
-Phase 1 completion pdf : 
+Phase 1 completion pdf : [RenewSure_Phase1_.pdf]
 
 ## Phase 2 : Org Setup & Configuration (Done)✅
 Phase 2 completed : [RenewSure_Phase2_.md]
