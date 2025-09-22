@@ -1,11 +1,11 @@
 # RenewSure : Smart Contract Expiry & Renewal Tracker 🔄️⌛ 
 
-## Project Overview :
+## 🔗Project Overview :
 Industry: Legal / Business Services
 Target Users: Contract Managers, Legal Teams, Business Owners, Compliance Officers
 Project Type: Salesforce CRM Implementation
 
-## Problem Statement :
+## 🔗Problem Statement :
 Many businesses lose revenue and face compliance risks due to missed contract renewals,
 duplicate entries, and a lack of automated alerts. Without a proper system, managers only realize
 the issue once it’s too late. The current manual methods provide little visibility into upcoming
@@ -19,3 +19,11 @@ Phase 1 completion pdf : [RenewSure_Phase1_.pdf]
 ## Phase 2 : Org Setup & Configuration (Done)✅
 Phase 2 completed : [RenewSure_Phase2_.md]
 Phase 2 completed pdf : Phase2_completed.pdf
+
+## 🔗 Helpful Salesforce Resources
+Salesforce DX Development Models
+Salesforce DX Project Configuration
+Salesforce Extensions Documentation
+Salesforce CLI Setup Guide
+Salesforce DX Developer Guide
+Salesforce CLI Command Reference
