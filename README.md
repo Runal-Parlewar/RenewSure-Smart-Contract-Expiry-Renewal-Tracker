@@ -20,10 +20,4 @@ Phase 1 completion pdf : [RenewSure_Phase1_.pdf]
 Phase 2 completed : [RenewSure_Phase2_.md]
 Phase 2 completed pdf : Phase2_completed.pdf
 
-## 🔗 Helpful Salesforce Resources
-Salesforce DX Development Models
-Salesforce DX Project Configuration
-Salesforce Extensions Documentation
-Salesforce CLI Setup Guide
-Salesforce DX Developer Guide
-Salesforce CLI Command Reference
+
