@@ -32,5 +32,6 @@ PDF link : [Phase 8 : RenewSure](Completion/Phase8_Completion.pdf)
 ### Phase 9 : Reporting, Dashboards & Security Review (Done)✅
 PDF link : [Phase 9 : RenewSure](Completion/Phase9_Completion.pdf)
 ### Phase 10 : Final Presentation (Done)✅
+Link : [Phase 10 : RenewSure](Completion/RenewSure_Phase_10.pptx)
 
 
