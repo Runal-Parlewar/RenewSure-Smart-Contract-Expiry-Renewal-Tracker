@@ -1,0 +1,19 @@
+<template>
+    <lightning-card title="Contracts Dashboard" icon-name="standard:dashboard">
+        <div class="slds-p-around_medium">
+            <h3>Contracts Expiring in Next 30 Days</h3>
+            <template if:true={contractData}>
+                <template for:each={contractData} for:item="item">
+                    <p key={item.status}>{item.status} : {item.count}</p>
+                </template>
+            </template>
+
+            <h3>Renewal Values by Type</h3>
+            <template if:true={renewalData}>
+                <template for:each={renewalData} for:item="item">
+                    <p key={item.type}>{item.type} : ${item.totalValue}</p>
+                </template>
+            </template>
+        </div>
+    </lightning-card>
+</template>
