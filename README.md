@@ -24,6 +24,7 @@ PDF link : [Phase 4 : RenewSure](Completion/Phase4_Completed.pdf)
 ### Phase 5 : Automation & Apex  (Done)✅
 PDF link : [Phase 5 : RenewSure](Completion/Phase5_Automation_Apex_Documentation.pdf)
 ### Phase 6 : User Interface Development  (Done)✅
+PDF link : [Phase 6 : RenewSure](Completion/Phase6_Completion.pdf)
 ### Phase 7 : Integration & External Access  (Done)✅
 ### Phase 8 : Data Management & Deployment  (Done)✅
 ### Phase 9 : Reporting, Dashboards & Security Review (Done)✅
