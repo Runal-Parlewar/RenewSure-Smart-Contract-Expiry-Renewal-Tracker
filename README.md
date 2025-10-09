@@ -18,7 +18,7 @@ PDF link: [Phase 1 : RenewSure](Phase_1_completed.pdf)
 ### Phase 2 : Org Setup & Configuration (Done)✅
 PDF link : [Phase 2 : RenewSure](Phase_2_completed.pdf)
 ### Phase 3 : Data Modeling & Relationships (Done)✅
-PDF link : [Phase 3 : RenewSure](Completion/Phase3_Completed.pdf)
+PDF link : [Phase 3 : RenewSure](Phase_3_completed.pdf)
 ### Phase 4 :  Automation & Approval  (Done)✅
 PDF link : [Phase 4 : RenewSure](Completion/Phase4_Completed.pdf)
 ### Phase 5 : Automation & Apex  (Done)✅
