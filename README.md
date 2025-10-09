@@ -30,7 +30,7 @@ PDF link : [Phase 7 : RenewSure](Phase_7_completed.pdf)
 ### Phase 8 : Data Management & Deployment  (Done)✅
 PDF link : [Phase 8 : RenewSure](Phase_8_completed.pdf)
 ### Phase 9 : Reporting, Dashboards & Security Review (Done)✅
-PDF link : [Phase 9 : RenewSure](Completion/Phase9_Completion.pdf)
+PDF link : [Phase 9 : RenewSure](Phase_9_completed.pdf)
 ### Phase 10 : Final Presentation (Done)✅
 PDF link : [Phase 10 : RenewSure](Completion/Phase_10_completed.pdf)
 
