@@ -28,7 +28,7 @@ PDF link : [Phase 6 : RenewSure](Phase_6_completed.pdf)
 ### Phase 7 : Integration & External Access  (Done)✅
 PDF link : [Phase 7 : RenewSure](Phase_7_completed.pdf)
 ### Phase 8 : Data Management & Deployment  (Done)✅
-PDF link : [Phase 8 : RenewSure](Completion/Phase8_Completion.pdf)
+PDF link : [Phase 8 : RenewSure](Phase_8_completed.pdf)
 ### Phase 9 : Reporting, Dashboards & Security Review (Done)✅
 PDF link : [Phase 9 : RenewSure](Completion/Phase9_Completion.pdf)
 ### Phase 10 : Final Presentation (Done)✅
