@@ -16,7 +16,7 @@ reminders, and giving managers clear dashboards to track contract health.
 ### Phase 1 : Problem Understanding & Industry analysis (Done)✅
 PDF link: [Phase 1 : RenewSure](Phase_1_completed.pdf)
 ### Phase 2 : Org Setup & Configuration (Done)✅
-PDF link : [Phase 2 : RenewSure](Completion/Phase2_completed.pdf)
+PDF link : [Phase 2 : RenewSure](Phase_2_completed.pdf)
 ### Phase 3 : Data Modeling & Relationships (Done)✅
 PDF link : [Phase 3 : RenewSure](Completion/Phase3_Completed.pdf)
 ### Phase 4 :  Automation & Approval  (Done)✅
