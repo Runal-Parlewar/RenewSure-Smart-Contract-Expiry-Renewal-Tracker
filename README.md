@@ -20,7 +20,7 @@ PDF link : [Phase 2 : RenewSure](Phase_2_completed.pdf)
 ### Phase 3 : Data Modeling & Relationships (Done)✅
 PDF link : [Phase 3 : RenewSure](Phase_3_completed.pdf)
 ### Phase 4 :  Automation & Approval  (Done)✅
-PDF link : [Phase 4 : RenewSure](Completion/Phase4_Completed.pdf)
+PDF link : [Phase 4 : RenewSure](Phase_4_Completed.pdf)
 ### Phase 5 : Automation & Apex  (Done)✅
 PDF link : [Phase 5 : RenewSure](Completion/Phase5_Automation_Apex_Documentation.pdf)
 ### Phase 6 : User Interface Development  (Done)✅
